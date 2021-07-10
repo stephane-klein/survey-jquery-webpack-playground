@@ -1,3 +1,4 @@
+import $ from "jquery";
 import * as Survey from "survey-jquery";
 
 document.addEventListener('DOMContentLoaded', (event) => {
