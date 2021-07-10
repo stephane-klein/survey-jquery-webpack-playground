@@ -1,5 +1,6 @@
 import $ from "jquery";
 import * as Survey from "survey-jquery";
+import "survey-jquery/survey.min.css";
 
 document.addEventListener('DOMContentLoaded', (event) => {
     const modelData = {
